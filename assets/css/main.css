@@ -1036,6 +1036,7 @@
 
 .home-product-item {
     display: block;
+    width: 100%;
     text-decoration: none;
     position: relative;
     background-color: var(--white-color);
